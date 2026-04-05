@@ -8,6 +8,6 @@ public class HolaController {
 
     @GetMapping("/")
     public String hola() {
-        return "Hola mundo desde Spring Boot 🚀";
+        return "Hola desde Jenkins automatico funcionando 🚀";
     }
 }
